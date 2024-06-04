@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Personal Development 23/24
 ---
 
 This is a blank Quartz installation.

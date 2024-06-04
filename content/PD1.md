@@ -1,6 +1,6 @@
 ---
 title: Personal Development Sprint 1
-draft: true
+draft: false
 tags:
 ---
  Content 1.

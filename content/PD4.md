@@ -1,5 +1,5 @@
 ---
-title: Personal Development Sprint 4
+title: Young professional coaching, intervisie, eindopdracht
 draft: false
 tags:
 ---

@@ -2,8 +2,10 @@
 title: 0. Talentenpaspoort
 draft: false
 tags:
+  - "#netwerken"
 ---
- ## Wie ik ben
+# Even kennismaken
+ ## Wie ben ik?
 Pitch: omschrijf jezelf in 3 zinnen. Wat voor ID'er ben jij?
 
 ## Wat ik kan

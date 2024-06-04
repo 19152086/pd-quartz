@@ -8,7 +8,7 @@ tags:
 Ter voorbereiding aan het event had ik een elevator pitch voor mijzelf voorbereid:
 
 ---
-*Hallo, ik ben Vincent en student HBO-ICT aan de Haagse Hogeschool. Ik doe daar Innovative Development, waar ik uitdagingen vanuit het bedrijfsleven en maatschappelijke vraagstukken oplos met behulp van IT en Design Thinking toepas.*
+*Hallo, ik ben Voornaam en student HBO-ICT aan de Haagse Hogeschool. Ik doe daar Innovative Development, waar ik uitdagingen vanuit het bedrijfsleven en maatschappelijke vraagstukken oplos met behulp van IT en Design Thinking toepas.*
 
 *Ik heb daardoor ervaring met uiteenlopende projecten, en ben beken met Java, C#, Python en de typische web front-end stack HTML, CSS en JavaScript. Uiteraard heb ik ook ervaring met SQL en databases in het algemeen.*
 

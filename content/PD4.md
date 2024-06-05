@@ -1,14 +1,18 @@
 ---
-title: 4. Die laatste
+title: 4. Covey's cirkels & Offman's kernkwadranten
 draft: false
 tags:
+  - "#zelfkennis"
 ---
-Kleurenleer van de Caluwé
-Uitkomst
+# Circles of influence and concern van Covey
+Voor mijn cirkels heb ik gekeken naar de situatie bij het zoeken naar een stage.
 
+![Cirkels](https://i.imgur.com/ee4uryW.png)
 
-Voorspel-opdracht
-Maak een beschrijving van je eerste werkdag bij een nieuwe baan (op het vakgebied)
-Maak gebruik van eerdere oefeningen en de uitkomst kleurenleer.
-Geef jezelf vijf tips voor je eerste werkdag.
+# Kernkwadranten van Offman
+Kwaliteit: rustig
+Reden: aanwezig en actief, maar niet te druk (in vergelijking met anderen).
+Effect ervan: zorgt ervoor dat het binnen de groep niet te druk wordt.
+Eventuele verandering: rustige houding zorgt er misschien voor dat je niet altijd jezelf laat horen.
 
+![kwadrant offman](https://i.imgur.com/wOsAPGH.png)

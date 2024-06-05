@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"9f443d9aa425b77a","x":-320,"y":-260,"width":250,"height":150,"color":"4","type":"text","text":"**Kwaliteit**\n\nRustig"},
+		{"id":"7fc94d1769af144b","type":"text","text":"**Doorschieten**\n\nNiet altijd jezelf laten horen","x":20,"y":-260,"width":250,"height":150,"color":"3"},
+		{"id":"ed52ee8de94fe3c5","type":"text","text":"**Allergie**\n\nHyperactiviteit","x":-320,"y":-40,"width":250,"height":150,"color":"6"},
+		{"id":"1b074f97d83feff2","type":"text","text":"**Uitdaging**\n\nDrukke personen en daar bovenuit komen","x":20,"y":-40,"width":250,"height":150,"color":"1"}
+	],
+	"edges":[
+		{"id":"b218fc953de6311d","fromNode":"9f443d9aa425b77a","fromSide":"right","toNode":"7fc94d1769af144b","toSide":"left"},
+		{"id":"7ba7235c6180df95","fromNode":"7fc94d1769af144b","fromSide":"bottom","toNode":"1b074f97d83feff2","toSide":"top"},
+		{"id":"e8e6b615d4d97198","fromNode":"1b074f97d83feff2","fromSide":"left","toNode":"ed52ee8de94fe3c5","toSide":"right"},
+		{"id":"a284e34ff5a3fc8a","fromNode":"ed52ee8de94fe3c5","fromSide":"top","toNode":"9f443d9aa425b77a","toSide":"bottom"},
+		{"id":"436183f6c728c41c","fromNode":"9f443d9aa425b77a","fromSide":"bottom","toNode":"1b074f97d83feff2","toSide":"top"}
+	]
+}

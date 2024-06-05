@@ -3,7 +3,7 @@ title: 1. Big Five Persoonlijkheidstest
 draft: false
 tags:
   - persoonlijkheid
-  - zelfherkenning
+  - "#zelfkennis"
 ---
 # Over de test
 De [Big Five-persoonlijkheidstest](https://nl.wikipedia.org/wiki/Big_five_(persoonlijkheidstrekken)) is een beknopte methode voor het meten van karaktertrekken, in 1981 ontworpen door Lewis Goldberg. Dit wordt gedaan aan de hand van vijf factoren, die ieder weer zes toegekende facetten kennen.
@@ -25,7 +25,7 @@ Ik denk dat deze score een beetje laag is vergeleken met hoe ik dit zelf ervaar,
 ### Extraversie: 11%
 Ik denk dat dit redelijk accuraat is, ik probeer zeker wel bijvoorbeeld assertief en vriendelijk te zijn maar ik merk ook dat ik maar een beperkte hoeveelheid extraverte energie heb op een dag die eigenlijk al snel op is.
 ### Meegaandheid: 19%
-Ik vind dit ook weer een vrij lage score met hoe ik het zelf ervaar, maar ik vind het zeker fijn om over het algemeen de omgang met elkaar heel zakelijk te houden.
+Ik vind dit ook weer een vrij lage score met hoe ik het zelf ervaar, maar ik vind het zeker fijn om over het algemeen de omgang met elkaar zakelijk te kunnen houden. Op deze manier kost het me minder sociale energie om door de dag heen te komen.
 ### Natuurlijke reacties: 21%
 Hier herken ik mijzelf goed in, soms kan ik over bepaalde zaken piekeren maar dit heb ik steeds beter leren herkennen in mijzelf en over het algemeen maak ik mij weinig zorgen.
 

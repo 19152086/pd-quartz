@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae 2024 mei
+title: "Extra: cv 2024 mei"
 draft: false
 tags:
   - "#netwerken"

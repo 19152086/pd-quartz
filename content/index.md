@@ -8,7 +8,7 @@ tags:
 
 Welkom bij mijn portfolio voor PD4 bij Innovative Development.
 
-Gebruik het Explorer-menu aan de rechterkant om de individuele pagina's te bezoeken.
+Gebruik het Explorer-menu aan de rechterkant om de individuele pagina's te bezoeken en de titel van het blog om hier terug te komen.
 ## Vormgeving
 Om dit vorm te geven heb ik gekozen om [Quartz](https://quartz.jzhao.xyz/) te gebruiken, een framework waarmee het gemakkelijk is om bestanden geschreven met [Obsidian](https://obsidian.md/) of andere [Markdown](https://en.wikipedia.org/wiki/Markdown)-editors te publiceren in de vorm van een blog.
 

@@ -1,34 +1,3 @@
-## Verslag van het event
-
-Ga je bij minimaal 5 bedrijven langs. Je zoekt naar antwoorden op de vragen: 
-- Wat doet dit bedrijf en hoe speelt IT hierin een rol? 
-- Wat voor soort bedrijf is dit en spreekt dat me aan? (groot/klein, waar zit het, soort medewerkers, cultuur/ houding naar young professionals/ mogelijkheden, etc. etc.) 
-- Spreekt het werk wat dit bedrijf doet me aan? Wat vind ik er leuk aan en wat niet? 
-- Zou dit bedrijf een geschikte stage/afstudeerplek voor mij zijn? En zo ja waarom?  
-
-Probeer gesprekken aan te knopen en ‘scoor’ visitekaartjes en/of LinkedIn connecties 
-en maak foto’s! 
-
-Na afloop: 
-
-Maak een kort verslagje waarin je in ieder geval opneemt: 
-- Foto’s die laten zien waar je geweest bent 
-- Een beschrijving/ opsomming van bedrijven die je leuk vindt (en waarom!) 
-- Een beschrijving/ opsomming van bedrijven die je NIET leuk vindt (en waarom!) 
-- Mogelijke werkzaamheden die je kan gaan doen die je leuk vindt (en waarom!) 
-- Mogelijke werkzaamheden die je kan gaan doen die je NIET leuk vindt (en waarom!) 
-- Een beschrijving van de presentaties die je bijgewoond hebt  
-- Je indruk van de dag & overzicht behaalde ‘netwerk’ resultaten 
-
-
-
-Neem op in je eindportfolio: 
-- Neem het verslag van je twee events
-
-![[werken_voor_nederland.webp]]
-
-Ik heb geen groot tweede event bijgewoond dit semester, maar ik heb wel in dezelfde periode de pop-up store van de Rijksoverheid bezocht. Deze was in dezelfde week als het HBO ict jobevent geopend op het centraal station van Utrecht.
-
 
 # Les 2
 # Big Five persoonlijkheidstest
@@ -85,7 +54,7 @@ Portfolio Bedenk een creatieve manier voor het weergeven van jouw portfolio Het 
 
 # Les 3
 ## Persoonlijk leiderschap
-
+???
 
 # Les 4
 ## Intervisie
@@ -98,24 +67,3 @@ Ik was nog aan het solliciteren. Die laatste PD dag veel tijd besteed aan het be
 ## Bespreking eindportfolio
 .
 project page split, tags, quartz config, breadcrumbs? and hosting @ github pages.
-
-# Notes telefoon utrecht
-## Masterclass ronde 2
-
-Topicus. Usb communication explained.
-
-## Stands
-
-Rijksoverheid. Istage.
-
-Belastingdienst Los van rest van het rijk, meer Dan 4k iters werkzaam. Belastingaangiften verwerkingen, miljoenen aangiften risicoprofielen voor handmatige controles. Ingebouwde Innovatiesprint van 2 weken eind van elke 3 maandelijkse periode. Ingeschreven voor job alerts.
-
-New story. Noordwijk. A tot Z software. Klanten als vandervalk hotelketen. Linkedin connect.
-
-Info Support. Heeft een hoop stages. Matching etc.  
-
-ChipSoft.
-
-
-Whatever.
-

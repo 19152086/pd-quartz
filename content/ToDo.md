@@ -1,24 +1,4 @@
-# oplevering
-# Les 1
-## Intro
-Kort stukje over de keuze voor Quartz 4 als opleveringsmethode.
-
-Dingen die ik heb gedaan op het gebied van zelfontwikkeling. Technieken, methoden, werkwijzen.
-
-## Elevator Pitch
-
-Welke ID'er ben jij?
-Maak een elevator pitch waarbij je in een minuut vertelt wie je bent en wat je te bieden hebt. Neem deze pitch op of schrijf deze pitch uit en zet je pitch in je eindportfolio.
-
-1.2 Oriëntatie op afstudeeropdracht 
-
-## Voorbereiding HBO ict jobevent
-
-Ter voorbereiding op het event in Utrecht. Op school gezamenlijk verschillende LinkedIn profielen klassikaal bekeken en besproken. Zelf ben ik geen fan van LinkedIn, het is voor mij een onaangename verzameling van zaken die net zo goed op andere social media thuis horen, reclame en (zelf)promotie, zeer onpersoonlijk en het heeft ook nog nooit tot iets geleden. Ook het idee dat Microsoft (sinds 2016 eigenaar) via dit platform een nog grotere invloed uit kan oefenen op het bedrijfsleven staat mij niet aan en ik gebruik het eigenlijk alleen met tegenzin. Liefst zou ik het boycotten.
-
-LinkedIn profiel en CV updaten.
-
-## HBO ict jobevent
+## Verslag van het event
 
 Ga je bij minimaal 5 bedrijven langs. Je zoekt naar antwoorden op de vragen: 
 - Wat doet dit bedrijf en hoe speelt IT hierin een rol? 
@@ -51,7 +31,14 @@ Ik heb geen groot tweede event bijgewoond dit semester, maar ik heb wel in dezel
 
 
 # Les 2
-## Big Five persoonlijkheidstest
+# Big Five persoonlijkheidstest
+
+Voor deze opdracht heb ik de Big Five persoonlijkheidstest gedaan op: https://www.123test.com/nl/persoonlijkheidstest/.
+
+
+
+---
+
 Big Five Persoonlijkheidstest Maak de Big Five persoonlijkheidstest op https://www.123test.com/nl/persoonlijkheidstest/ Bekijk de uitslag (eventueel kan je het uitgebreide verslag kopen, maar dat hoeft niet) schrijf een korte reflectie op de uitslag en neem beide op in je PD portfolio. In je reflectie neem je op: - Herken je jezelf in de uitslag? - Kiest twee dimensies waar je een voorbeeld bij bedenkt. - Op welke dimensies zou je je willen verbeteren of nog beter willen benutten?
 
 ## Kleurenleer van De Caluwé en glazen bol

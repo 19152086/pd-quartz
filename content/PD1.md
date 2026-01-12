@@ -4,6 +4,7 @@ draft: false
 tags:
   - persoonlijkheid
   - "#zelfkennis"
+date: 2026-01-10
 ---
 # Over de test
 De [Big Five-persoonlijkheidstest](https://nl.wikipedia.org/wiki/Big_five_(persoonlijkheidstrekken)) is een beknopte methode voor het meten van karaktertrekken, in 1981 ontworpen door Lewis Goldberg. Dit wordt gedaan aan de hand van vijf factoren, die ieder weer zes toegekende facetten kennen.

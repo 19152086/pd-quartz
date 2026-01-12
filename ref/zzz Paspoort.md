@@ -8,7 +8,7 @@ tags:
 ### Wie ben ik?
 Hoi, ik ben Voornaam en als student HBO-ICT specialiseer ik mij in softwareontwikkeling en in het bijzonder het innovatief toepassen van IT. Ik werk graag in multidisciplinaire teams om zo samen tot een out-of-the-box oplossing te komen en hierbij een prototype te ontwerpen, realiseren en testen. Mijn favoriete onderwerpen zijn data-analyse, serious gaming en gamification.
 ### Wat kan ik?
-- Mijn uitkomsten bij de [Big Five persoonlijkheidstest](zzz%20PD1.md).
+- Mijn uitkomsten bij de [Big Five persoonlijkheidstest](PD1.md).
 - Mijn uikomsten bij de [kleurentest van De Caluwé](zzz%20PD3.md).
 - Mijn invulling bij de [cirkels van Covey en het kwaliteitenspel van Offman](zzz%20PD4.md)
 - En natuurlijk een update van [mijn cv](zzz%20CV.md), die normaal gesproken gewoon een pdf is maar hier ook in Markdown format terug te vinden.
